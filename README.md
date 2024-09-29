@@ -1,5 +1,16 @@
-# React + TypeScript + Vite
+# Chrome theme toggle extension
 
+## Installation Instructions
+
+1. Download the latest release from the [Releases](https://github.com/Somilg11/theme-changer/releases) page.
+2. Unzip the downloaded file.
+3. Open Chrome and navigate to `chrome://extensions/`.
+4. Enable **Developer mode**.
+5. Click **Load unpacked** and select the unzipped folder.
+
+![Demo App](/src/assets/extensionss.png)
+
+## React + TypeScript + Vite
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
